@@ -659,9 +659,6 @@
       width: 100%;
       align-items: center;
     }
-    .books-categories{
-      /* margin-top: -50px; */
-    }
     .books-types .books-categories-footer{
       display: flex;
       flex-direction: column;
@@ -787,9 +784,6 @@ nav>ul li a:hover , .nav>ul li a:active{
 .footer-main-div .footer-section .books-categories{
   width: 100%;
   align-items: center;
-}
-.books-categories{
-  /* margin-top: -50px; */
 }
 .books-types .books-categories-footer{
   display: flex;
