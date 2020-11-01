@@ -401,7 +401,7 @@
   position: absolute;
   right: 5%;
   top: -15%;
-  border: 2px solid #0c3ab8;
+  /* border: 2px solid #0c3ab8; */
   border-radius: 5px;
   padding: 10px;
   /* margin: 10px 0px; */
@@ -660,7 +660,7 @@
       align-items: center;
     }
     .books-categories{
-      margin-top: -50px;
+      /* margin-top: -50px; */
     }
     .books-types .books-categories-footer{
       display: flex;
@@ -669,7 +669,7 @@
     }
     .footer-main-div{
       height: 600px;
-      margin-top: -20px;
+      margin-top: 20px;
     }
     .contactUsSect{
       top: 140%;
@@ -678,6 +678,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      border: 2px solid #0c3ab8;
     }
     .contactUsForm{
       display: flex;
@@ -788,7 +789,7 @@ nav>ul li a:hover , .nav>ul li a:active{
   align-items: center;
 }
 .books-categories{
-  margin-top: -50px;
+  /* margin-top: -50px; */
 }
 .books-types .books-categories-footer{
   display: flex;
@@ -806,6 +807,7 @@ nav>ul li a:hover , .nav>ul li a:active{
   display: flex;
   justify-content: center;
   align-items: center;
+  border: 2px solid #0c3ab8;
 }
 .contactUsForm{
   display: flex;
